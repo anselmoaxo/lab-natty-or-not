@@ -15,7 +15,7 @@ Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID"  e  Eleve
 
 - **Introdução:** Apresentação do blog de beleza e seus principais tópicos.
 
-[LINK PARA O VÍDEO AQUI]()
+[LINK PARA O VÍDEO AQUI](https://github.com/anselmoaxo/lab-natty-or-not/blob/main/Desafio_IA/Beleza_para_inspirar.mp4)
 
 ## 💭 Reflexão
 Este projeto foi uma experiência incrível em contar histórias visuais, utilizando as IAs Generativas para criar uma narrativa poderosa e cativante.
