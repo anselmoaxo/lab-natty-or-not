@@ -6,7 +6,7 @@ Este vídeo de 2 minuto um resumo sobre inteligencia artificial.
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
 - IA Generativa **[D-ID](https://www.d-id.com)** para geração de avatar virtual;
-- ElevenLabs **[Adobe Premiere](https://elevenlabs.io/)** para sintetização de voz .
+- IA Generativa **[ElevenLabs](https://elevenlabs.io/)** para sintetização de voz .
 
 ## 🧐 Processo de Criação
 Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID"  e  ElevenLabs foi essencial para criar um avatar virtual e voz sintetizada, trazendo uma dimensão futurística ao vídeo. 
