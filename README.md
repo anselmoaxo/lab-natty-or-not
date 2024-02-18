@@ -1,7 +1,7 @@
-# Vídeo: Dois Minutos no Futuro das IAs Generativas 🎥
+# Vídeo: 1 Minuto no Futuro das IAs Generativas 🎥
 
 ## 📒 Descrição
-Este vídeo de 2 minuto um resumo sobre inteligencia artificial.
+Neste vídeo, criei uma abertura única para o blog de beleza da minha esposa, onde um avatar simula ela apresentando o conteúdo do blog. O vídeo foi produzido com a ajuda do IIelevenLabs e D-ID, uma ferramenta incrível para criar experiências interativas.
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
@@ -12,7 +12,8 @@ Este vídeo de 2 minuto um resumo sobre inteligencia artificial.
 Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID"  e  ElevenLabs foi essencial para criar um avatar virtual e voz sintetizada, trazendo uma dimensão futurística ao vídeo. 
 
 ## 🚀 Resultados
-O vídeo é um breve resumo do que é e como fascinante a Inteligencia Artificial.
+
+- **Introdução:** Apresentação do blog de beleza e seus principais tópicos.
 
 [LINK PARA O VÍDEO AQUI]()
 
