@@ -1,4 +1,4 @@
-# Vídeo: Um Minuto no Futuro das IAs Generativas 🎥
+# Vídeo: Dois Minutos no Futuro das IAs Generativas 🎥
 
 ## 📒 Descrição
 Este vídeo de 2 minuto um resumo sobre inteligencia artificial.
